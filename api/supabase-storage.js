@@ -1,6 +1,6 @@
 const FIREBASE_WEB_API_KEY = "AIzaSyAcN0uaLfWmxp3ZBbWIomPXHenx3gjr5-w";
 const DEFAULT_BUCKET = "blk-assets";
-const DEFAULT_SUPABASE_URL = "https://nvvkmdohelulylymlpme.supabase.co";
+const DEFAULT_SUPABASE_URL = "https://xjzqbloyjmvrmtgdewwy.supabase.co";";
 
 function json(res, status, payload) {
   res.status(status).json(payload);
