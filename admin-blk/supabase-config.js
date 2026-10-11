@@ -10,6 +10,6 @@
 // - JANGAN pernah menaruh Secret key / service_role key di file ini.
 // ============================================================
 
-export const SUPABASE_URL = "https://nvvkmdohelulylymlpme.supabase.co";
+export const SUPABASE_URL = "https://xjzqbloyjmvrmtgdewwy.supabase.co";
 export const SUPABASE_PUBLISHABLE_KEY = "sb_publishable_stiQnbYfeTfXit4lT0F4Sg_Y87b5Jvu";
 export const SUPABASE_BUCKET = "blk-assets";
